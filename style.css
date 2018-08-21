@@ -1,0 +1,120 @@
+
+
+  body, html {
+      height: 100%;
+      font-family: 'Cinzel Decorative', cursive;
+      background-image: url(images/background-body.JPG);
+  }
+  
+ 
+
+  form-inline {background-color:white;
+      width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+#services {
+      background-color:whitesmoke;
+      border-color: black;
+      width:100%;
+      padding-right:500;
+      padding-left: 50px;
+      padding-bottom: 30px;
+      margin-left: 100px;
+      margin-top: 3px;
+      font-weight: bold;
+      font-size: 20px;
+}
+#gallery {
+      margin-top: 50px;
+      margin-left: 50px;
+}
+
+
+#wiggy{
+      margin-top: 50px;
+      margin-left: 50px; 
+}
+
+ #address{
+       text-align: center;
+       margin-left: 50px;
+ }
+
+
+  #forming{
+      padding-top: 5px;
+      margin-left: 100px;
+      margin-right: 100px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      padding-left:100px;
+  }
+
+
+
+  #clothing {
+      margin-top: 50px;
+      margin-left: 50px; 
+  }
+
+
+  #salon-picture{
+      margin-top: 0px;
+      margin-left: 250px;    
+      margin-right: 250px; 
+      margin-bottom: 100px;
+  }
+
+#styles {
+      margin-top: 50px;
+      margin-left: 50px;
+}
+
+
+  img {
+        margin-bottom: 25px;
+  }
+
+.jumbotron {
+      background-color:rgb(190, 15, 103);
+      color: aliceblue;
+      text-align: center;
+      padding:50px;
+      margin: 5px;
+      background-image: url(..images/Twisthairstyle.jpg);
+}
+
+#stylist-info{
+      margin-left: 300px;
+      margin-bottom:50px;
+}
+
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right:auto ;
+      width: 100%;
+  }
+
+.row {
+      padding-top: 1px;
+}
+
+.navbar {
+      padding: 10px;
+}
+
+
+footer {
+      padding: 30px 0;
+      clear: both;
+      font-size: 12px;
+      color:  aliceblue;
+      text-align: center;
+      background: rgb(190, 15, 103);
+    }
+   
+   
