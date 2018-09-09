@@ -43,6 +43,18 @@
        margin-left: 50px;
  }
 
+ #formaddress {
+      background-color:rgba(242, 243, 208, 0.61);
+      border-color: black;
+      width:100%;
+      padding-right:600;
+      padding-left: 50px;
+      padding-bottom: 30px;
+      margin-left: 300px;
+      margin-top: 3px;
+      font-weight: bold;
+      font-size: 18px;
+ }
 
   #forming{
       padding-top: 5px;
